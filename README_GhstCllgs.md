@@ -45,17 +45,17 @@ pipe(prompt="your prompt in the style of ghstcllgs")
 
 Below are some outputs generated using the fine-tuned `ghstcllgs03` model:
 
-### `"abandoned building in the style of ghstcllgs"`
-![output_1](assets/output_1.png)
+### `"faceless"`
+![output_1](assets/output_01.png)
 
-### `"ghost-like figure"`
-![output_2](assets/output_2.png)
+### `"in the style of ghstcllgs"`
+![output_2](assets/output_02.png)
 
-### `"red cross in a circle on a white background"`
-![output_3](assets/output_3.png)
+### `"prisoner"`
+![output_3](assets/output_03.png)
 
-### `"faceless figure in the style of ghstcllgs"`
-![output_4](assets/output_4.png)
+### `"the beach in sections"`
+![output_4](assets/output_04.png)
 
 
 ## **Model Checkpoint**
