@@ -61,7 +61,7 @@ Below are some outputs generated using the fine-tuned `ghstcllgs03` model:
 ## **Model Checkpoint**
 
 The fine-tuned model is hosted on Hugging Face:
-👉 [GhstCllgs03 on Hugging Face](https://huggingface.co/ina-hre/ghst-cllgs03)
+ [GhstCllgs03 on Hugging Face](https://huggingface.co/ina-hre/ghst-cllgs03)
 
 
 ## **Sources & Acknowledgements**
